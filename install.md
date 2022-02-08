@@ -29,7 +29,7 @@ java -jar target/MavenTest-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 4. En un navegador, dirijase al siguiente enlace 
 
-OBTENER [[http://localhost:3456/entornos](http://localhost:3456/entornos) 
+OBTENER [[http://localhost:3456/entornos](http://localhost:3456/entornos)]
 
 El entorno se identificará según el perfil seleccionado en el paso 2 (test / prod)
 
